@@ -1,5 +1,5 @@
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/Button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/tes-run-heroku/)
+[![Deploy](https://www.herokucdn.com/deploy/Button.svg)](https://heroku.com/deploy?template=https://github.com/Rafi718/tes-run-heroku/)
 
 # ```SELF-BOT```
 <p align="center">
